@@ -1,0 +1,6 @@
+data
+tmp
+.snakemake
+*.pyc
+*.pdf
+figures

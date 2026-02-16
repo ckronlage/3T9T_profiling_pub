@@ -1,0 +1,7 @@
+cores: 1
+retries: 1
+keep-going: True
+use-conda: True
+use-apptainer: True
+apptainer-args: "--env LD_PRELOAD='' --bind $(realpath data) --bind $FREESURFER_HOME/license.txt:/license.txt --env FS_LICENSE=/license.txt"
+rerun-triggers: [input,mtime,params]
