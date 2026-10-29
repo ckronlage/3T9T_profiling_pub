@@ -1,7 +1,7 @@
 # surface-based profiling of FCDs at 9.4T vs 3T
 
 This is the code for the analyses in the manuscript
-> Kronlage, ... Kuehn: "9.4 Tesla MRI in focal epilepsy patients with high-resolution surface-based profiling of focal cortical dysplasias", 2026 - in preparation.
+> Kronlage C, Martin P, Bender B, Hagberg GE, Bause J, Loureiro JRA, et al. 9.4-Tesla magnetic resonance imaging in focal epilepsy patients with high-resolution surface-based profiling of focal cortical dysplasias. Epilepsia. 2026; 00: 1–12. https://doi.org/10.1002/epi.70418
 
 ## folder structure
 - data in BIDS format is placed in `data/`, results and intermediate files will be stored in `data/derivatives`
